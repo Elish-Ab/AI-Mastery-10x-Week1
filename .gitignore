@@ -1,0 +1,10 @@
+env/
+myenv/
+talib/
+AAPL_historical_data.csv/
+AMZN_historical_data.csv/
+GOOG_historical_data.csv/
+META_historical_data.csv/
+MSFT_historical_data.csv/
+NVDA_historical_data.csv/
+TSLA_historical_data.csv/
